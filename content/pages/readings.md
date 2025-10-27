@@ -3,8 +3,6 @@ content_type: page
 description: The readings section features the required texts and the assigned readings
   by session.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -193,7 +191,7 @@ Iyengar, Shanto, Helmut Norpoth, and Kyu Hahn. "Consumer Demand for Election New
 
 Zaller, John. "The Myth of Massive Media Impact Discredited Idea." Chapter 2 in *Political Persuasion and Attitude Change*. Edited by Diana C. Mutz, Paul M. Sniderman, and Richard A. Brody. Ann Arbor, MI: University of Michigan Press, 1996, pp. 17-78. ISBN: 9780472065554.
 
-Bimber, Bruce, and Richard Davis. "[The Internet in Campaign 2000: How Political Web Sites Reinforce Partisan Engagment](http://repositories.cdlib.org/isber/cits/5/)." *Paper written for the Institute of Social, Behavioral, and Economic Research*. Santa Barbara, CA: University of California, Scholarship Repository, 2002.
+Bimber, Bruce, and Richard Davis. "{{% resource_link "118916c2-f8c7-433a-8f81-b145df34f8a8" "The Internet in Campaign 2000: How Political Web Sites Reinforce Partisan Engagment" %}}." *Paper written for the Institute of Social, Behavioral, and Economic Research*. Santa Barbara, CA: University of California, Scholarship Repository, 2002.
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link 391815f8-fb1c-2260-15d3-a533ad532b9f "PDF" %}})
