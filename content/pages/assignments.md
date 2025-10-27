@@ -2,8 +2,6 @@
 content_type: page
 description: The assignments section features descriptions for both the reaction papers
   and the article-length research paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

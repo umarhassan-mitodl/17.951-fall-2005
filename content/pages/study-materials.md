@@ -2,8 +2,6 @@
 content_type: page
 description: The study materials section features a cribsheet on the different theories
   covered in this course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
